@@ -565,3 +565,5 @@ extension CGSize {
         return CGSize(width: width * factor, height: height * factor)
     }
 }
+
+private var gameScore = 0
